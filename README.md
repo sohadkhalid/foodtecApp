@@ -34,7 +34,7 @@ The UI was built based on a *shared Figma design* and a *Business Requirements D
 lib/ ├── onboarding/ # Onboarding BLoC & UI ├── screens/ # Static UI screens (Home, Categories, etc.) ├── widgets/ # Reusable UI components ├── assets/ # Images and design assets └── main.dart # App entry piont
 
 ## ScreenShots
-
+Inside Foodtec proj images file 
 
 Credits
 Design Source: Figma + Business Requirements Document (BRD)
